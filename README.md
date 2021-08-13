@@ -1,6 +1,8 @@
 # reversePolishNotationCalculator
 RPN calculator with inputs given on the command line
 
+Reverse polish notation puts the operands before the operator. Several pre-microcomputer calculators used this format due to its structural simplicity. 
+
 Examples:
 
 run 1 1 +  
